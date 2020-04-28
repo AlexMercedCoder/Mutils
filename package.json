@@ -1,0 +1,20 @@
+{
+    "name": "mutils_am",
+    "version": "1.0.0",
+    "description": "---",
+    "main": "mutilsnpm.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AlexMercedCoder/Mutils.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AlexMercedCoder/Mutils/issues"
+    },
+    "homepage": "https://github.com/AlexMercedCoder/Mutils#readme"
+}

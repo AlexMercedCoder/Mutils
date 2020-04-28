@@ -12,10 +12,10 @@ CDN LINK: http://www.alexmercedcoder.com/mutils.js
 
 #### NPM
 
-npm i mutils
+npm i mutils_am
 
 ```
-const {Rand, MSet, MArray} = require("mutils")
+const {Rand, MSet, MArray} = require("mutils_am")
 ```
 
 #### Script Tag
