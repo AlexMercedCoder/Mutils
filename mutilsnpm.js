@@ -256,3 +256,9 @@ class MArray extends Array {
         return new MArray(...newArr);
     }
 }
+
+module.exports = {
+    Rand,
+    MSet,
+    MArray,
+};
